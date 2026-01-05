@@ -108,4 +108,10 @@ url = "postgresql://..."
 
 * [ ] **AI Assistant:** Chatbot to query database using natural language.
 
+## 🌐 Live Demo
+
+🚀 **Live Application:**  
+👉 https://employee-management-system.streamlit.app
+
+
 ### Developed by [Tanmay Nagare]
