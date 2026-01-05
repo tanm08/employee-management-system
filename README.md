@@ -113,6 +113,10 @@ url = "postgresql://..."
 🚀 **Live Application:**  
 👉 [https://employee-management-system.streamlit.app](https://employee-management-system-kvsfz8gkvfhhqgkztk4qot.streamlit.app/)
 
+### Details to Explore
+#### Username : ** Harshit Mathur **
+#### Password : ** Admin@123 **  
 
 ### Developed by [Tanmay Nagare]
+
 
